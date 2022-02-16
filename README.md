@@ -20,4 +20,4 @@ Took some help from these resources
 2) [MDN docs](https://developer.mozilla.org/en-US/)
 
 ## Output of Project:- 
-1. [GitHub Deployment](https://student-admin-management.herokuapp.com)
+1. [GitHub Deployment](https://assignment-rahulee19-gmailcom.vercel.app/)
